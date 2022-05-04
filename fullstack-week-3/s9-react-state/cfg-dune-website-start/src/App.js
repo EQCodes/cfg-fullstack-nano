@@ -22,7 +22,7 @@ function App() {
         {/* <ClassButton */}
         {/* <StatefulClassButton */}
         {/* <StatefulFunctionButton */}
-        <StatefulFunctionButton
+        <StatefulButtonClass
           buttonText = "Output Dune message" 
           quotes = {[
             'He who controls the spice controls the whole universe!',
